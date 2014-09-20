@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.andywoods.as3behavioursui.model.AppModel"/>
+    <classEntry path="com.andywoods.as3behavioursui.model.ItemDataFactory"/>
+    <classEntry path="com.andywoods.as3behavioursui.data.PropertyObject"/>
+    <classEntry path="com.andywoods.as3behavioursui.data.ActionObject"/>
+    <classEntry path="com.andywoods.as3behavioursui.data.EventObject"/>
+    <classEntry path="com.andywoods.as3behavioursui.view.ui.tabs.BaseTab"/>
+    <classEntry path="com.andywoods.as3behavioursui.data.ItemData"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
